@@ -14,7 +14,7 @@ Seja bem vindo ao meu **GitHub!**. Sou um estudante do curso de **Técnico em In
 
 ## 📬 Contato
 <p>
-  <a href="[https://www.linkedin.com/in/carlos-gardel-5b2760395](https://www.linkedin.com/in/jos%C3%A9-adryellisson-louren%C3%A7o-da-silva-0236742a9/)" target=”Linkedin”>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-adryellisson-louren%C3%A7o-da-silva-0236742a9/" target=”Linkedin”>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="adryellisson16@gmail.com" target=”Email”>
