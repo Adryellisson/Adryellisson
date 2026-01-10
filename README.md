@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**Adryellisson/Adryellisson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou José Adryellisson👋 
 
-Here are some ideas to get you started:
+Seja bem vindo ao meu **GitHub!**. Sou um estudante do curso de **Técnico em Informática pelo IFAL**, tenho muita vontade de aprender sobre novas tecnologias e desenvolver novas soluções!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎧 Sobre mim
+- 🎮 Games: Principalmente Competitivo e Narrativos.
+- 📚 Entusiasta do conhecimento - "Só sei que nada sei."
+
+## 💻 Linguagens e Tecnologias
+<div class="icon-list">
+    <img src="https://skillicons.dev/icons?i=py,java,mysql,html,css,git,github" />
+</div>
+
+## 📬 Contato
+<p>
+  <a href="[https://www.linkedin.com/in/carlos-gardel-5b2760395](https://www.linkedin.com/in/jos%C3%A9-adryellisson-louren%C3%A7o-da-silva-0236742a9/)" target=”Linkedin”>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="adryellisson16@gmail.com" target=”Email”>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p> 
+
