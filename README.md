@@ -5,7 +5,7 @@ Seja bem vindo ao meu **GitHub!**. Sou um estudante do curso de **Técnico em In
 
 ## 🎧 Sobre mim
 - 🎮 Games: Principalmente Competitivo e Narrativos.
-- 📚 Entusiasta do conhecimento - "Só sei que nada sei."
+- 📚 Entusiasta do conhecimento - "Não se pode banhar-se duas vezes no mesmo rio"
 
 ## 💻 Linguagens e Tecnologias
 <div class="icon-list">
