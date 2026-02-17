@@ -9,7 +9,7 @@ Seja bem vindo ao meu **GitHub!**. Sou um estudante do curso de **Técnico em In
 
 ## 💻 Linguagens e Tecnologias
 <div class="icon-list">
-    <img src="https://skillicons.dev/icons?i=py,java,mysql,html,css,git,github" />
+    <img src="https://skillicons.dev/icons?i=py,java,mysql,html,css,git" />
 </div>
 
 ## 📬 Contato
